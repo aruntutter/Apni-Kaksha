@@ -20,8 +20,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [here]()
-- Live Site URL: [here]()
+- Solution URL: [here](https://github.com/aruntutter/Apni-Kaksha/settings/pages)
+- Live Site URL: [here](https://lucky-crostata-d5baa4.netlify.app)
 
 ## My process
 
